@@ -1,0 +1,24 @@
+{
+  "name": "react-hooks-load-more",
+  "version": "1.0.0",
+  "description": "A React project using hooks to load more data (infinite scroll) bundled with Parcel",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html --open"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "hooks",
+    "parcel"
+  ],
+  "author": "Rajan Nahar",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
